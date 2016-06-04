@@ -1,3 +1,2 @@
 # Sample fitting
-![Program result](res_1.png)
-![Curve graph](res_2.png)
+![](res_1.png) ![](res_2.png)
