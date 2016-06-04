@@ -1,3 +1,3 @@
 # Sample fitting
-![](res_1.png =100x) 
-![](res_2.png)
+![](res_1.png) 
+![](res_2.png =100x)
