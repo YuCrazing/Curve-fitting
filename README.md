@@ -1,3 +1,2 @@
 # Sample fitting
-![](res_1.png) 
-![](res_2.png =100x)
+<img src="res_1.png" width="100">
