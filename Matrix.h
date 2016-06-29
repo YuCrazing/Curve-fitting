@@ -1,4 +1,5 @@
-
+#ifndef MATRIX_H_INCLUDED
+#define MATRIX_H_INCLUDED
 class Matrix{
     int N;
     double a[100][100];
@@ -24,3 +25,4 @@ public:
     double* SOR(double omega);
 
 };
+#endif // MATRIX_H_INCLUDED
